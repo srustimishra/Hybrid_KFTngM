@@ -1,0 +1,322 @@
+2017-06-09 11:42:12,100 INFO  [Log] Excel sheet initialised 
+2017-06-13 12:34:34,703 INFO  [Log] Chrome Browser Started 
+2017-06-13 12:34:35,813 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:34:35,813 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:34:35,813 INFO  [Log] Navigating to URL 
+2017-06-13 12:35:35,792 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,792 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,798 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,799 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,799 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,800 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,800 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,801 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,801 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,801 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,802 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,802 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,803 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,803 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,803 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,804 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,804 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,805 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,805 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,806 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,806 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,806 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,807 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,807 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,808 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,808 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,808 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,808 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:35,809 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:35,809 INFO  [Log] Navigating to URL 
+2017-06-13 12:35:40,443 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,443 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,444 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,444 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,444 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,444 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,445 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,445 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,446 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,446 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,446 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,446 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,447 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,447 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,447 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,447 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,448 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,448 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,448 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,448 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,448 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,449 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,449 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,449 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,449 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 12:35:40,449 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,450 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,450 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 12:35:40,450 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:13,440 INFO  [Log] Chrome Browser Started 
+2017-06-13 18:21:14,470 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:14,470 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:14,470 INFO  [Log] Navigating to URL 
+2017-06-13 18:21:30,121 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,121 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,124 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,124 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,125 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,125 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,126 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,126 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,126 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,126 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,127 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,127 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,127 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,127 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,128 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,128 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,128 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,128 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,129 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,129 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,129 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,130 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,130 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,130 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,130 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:21:30,131 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,131 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,131 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:21:30,132 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:29,451 INFO  [Log] Chrome Browser Started 
+2017-06-13 18:24:30,938 INFO  [Log] Navigating to URL 
+2017-06-13 18:24:50,595 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:50,595 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,595 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,596 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,596 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:50,596 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,596 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,597 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,597 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:50,597 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,598 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,598 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,598 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:50,599 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,599 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,599 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,599 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:50,600 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,600 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,600 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,601 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:24:50,601 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,601 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,601 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-13 18:24:50,601 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-13 18:49:06,735 INFO  [Log] Chrome Browser Started 
+2017-06-13 18:49:07,735 INFO  [Log] Navigating to URL 
+2017-06-13 18:49:28,248 INFO  [Log] Clicking on WebElement 
+2017-06-13 18:49:29,260 INFO  [Log] Clicking on WebElement 
+2017-06-13 18:49:32,169 INFO  [Log] Entering input Text 
+2017-06-13 18:49:34,378 INFO  [Log] Entering input Text 
+2017-06-13 18:49:35,277 INFO  [Log] Clicking on WebElement 
+2017-06-13 18:49:36,264 INFO  [Log] Closing the Browser 
+2017-06-14 16:20:03,582 INFO  [Log] Chrome Browser Started 
+2017-06-14 16:20:03,646 INFO  [Log] Navigating to URL 
+2017-06-14 16:20:23,448 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:20:25,040 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:20:26,804 INFO  [Log] Entering input Text 
+2017-06-14 16:20:28,781 INFO  [Log] Entering input Text 
+2017-06-14 16:20:29,593 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:20:30,516 INFO  [Log] Closing the Browser 
+2017-06-14 16:22:02,341 INFO  [Log] Chrome Browser Started 
+2017-06-14 16:22:02,406 INFO  [Log] Navigating to URL 
+2017-06-14 16:22:26,132 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:22:27,298 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:22:29,026 INFO  [Log] Entering input Text 
+2017-06-14 16:22:31,024 INFO  [Log] Entering input Text 
+2017-06-14 16:22:31,806 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:22:32,711 INFO  [Log] Closing the Browser 
+2017-06-14 16:23:02,706 INFO  [Log] Chrome Browser Started 
+2017-06-14 16:23:02,762 INFO  [Log] Navigating to URL 
+2017-06-14 16:23:25,555 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:23:26,709 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:23:28,397 INFO  [Log] Entering input Text 
+2017-06-14 16:23:30,581 INFO  [Log] Entering input Text 
+2017-06-14 16:23:31,357 INFO  [Log] Clicking on WebElement 
+2017-06-14 16:23:32,259 INFO  [Log] Closing the Browser 
+2017-06-14 17:19:41,309 INFO  [Log] Chrome Browser Started 
+2017-06-14 17:19:41,335 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-06-14 17:55:27,733 INFO  [Log] Chrome Browser Started 
+2017-06-14 17:55:27,753 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-06-14 17:59:18,654 INFO  [Log] Chrome Browser Started 
+2017-06-14 17:59:18,711 INFO  [Log] Navigating to URL 
+2017-06-14 17:59:40,762 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 17:59:40,763 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,769 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,771 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,772 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 17:59:40,774 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,777 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,779 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,781 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 17:59:40,782 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,784 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,785 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,787 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 17:59:40,789 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,790 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,791 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,794 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 17:59:40,801 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,807 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,812 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,813 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 17:59:40,846 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,850 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,852 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 17:59:40,854 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 18:24:38,730 INFO  [Log] Chrome Browser Started 
+2017-06-14 18:24:38,778 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-06-14 18:26:21,138 INFO  [Log] Chrome Browser Started 
+2017-06-14 18:26:21,166 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-06-14 21:01:45,691 INFO  [Log] Chrome Browser Started 
+2017-06-14 21:01:45,741 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-06-14 21:05:16,874 INFO  [Log] Chrome Browser Started 
+2017-06-14 21:05:16,900 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,901 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,902 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,904 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:05:16,905 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,907 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,909 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,911 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:05:16,913 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,915 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,916 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,918 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:05:16,920 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,921 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,922 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,923 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:05:16,924 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,927 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,929 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,931 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:05:16,932 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,934 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,936 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,939 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:05:16,941 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,950 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,952 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:05:16,952 ERROR [Log] Class Utils | Method setCellData | Exception desc : null 
+2017-06-14 21:12:21,038 INFO  [Log] Chrome Browser Started 
+2017-06-14 21:12:21,091 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:21,100 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:21,102 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:23,919 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:23,920 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:23,922 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:23,964 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:23,966 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:23,967 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,013 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,015 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,016 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,061 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,065 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,069 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,125 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,128 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,129 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,763 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,766 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:12:24,768 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,253 INFO  [Log] Chrome Browser Started 
+2017-06-14 21:13:20,274 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,281 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,283 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,544 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,546 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,547 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,601 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,603 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,604 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,652 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,653 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,654 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,772 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,773 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,776 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,832 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,833 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,870 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,923 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,924 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-14 21:13:20,931 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:46,575 INFO  [Log] Chrome Browser Started 
+2017-06-15 12:28:46,658 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:46,659 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:46,661 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,640 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,641 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,643 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,686 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,687 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,688 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,992 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,993 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:47,994 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,037 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,038 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,039 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,086 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,087 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,089 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,127 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,128 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:28:48,129 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 12:30:58,753 INFO  [Log] Chrome Browser Started 
+2017-06-15 12:30:58,803 INFO  [Log] Navigating to URL 
+2017-06-15 12:31:24,123 INFO  [Log] Clicking on WebElement 
+2017-06-15 12:31:25,521 INFO  [Log] Clicking on WebElement 
+2017-06-15 12:31:28,590 INFO  [Log] Entering input Text 
+2017-06-15 12:31:30,673 INFO  [Log] Entering input Text 
+2017-06-15 12:31:32,420 INFO  [Log] Clicking on WebElement 
+2017-06-15 12:31:33,374 INFO  [Log] Closing the Browser 
+2017-06-15 16:36:25,042 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:36:25,058 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-06-15 16:38:11,873 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:40:33,203 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:42:15,496 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:49:19,843 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:50:07,452 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-06-15 16:53:37,559 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:55:55,230 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:56:35,034 ERROR [Log] Class Utils | Method getRowCount | Exception desc : Sheet index (2) is out of range (0..1) 
+2017-06-15 16:59:48,791 INFO  [Log] Chrome Browser Started 
+2017-06-15 16:59:48,828 INFO  [Log] Navigating to URL 
+2017-06-15 17:00:28,407 INFO  [Log] Clicking on WebElement 
+2017-06-15 17:00:29,559 INFO  [Log] Clicking on WebElement 
+2017-06-15 17:00:33,250 INFO  [Log] Entering input Text 
+2017-06-15 17:00:35,133 INFO  [Log] Entering input Text 
+2017-06-15 17:00:35,898 INFO  [Log] Clicking on WebElement 
+2017-06-15 17:00:36,709 INFO  [Log] Closing the Browser 
+2017-06-15 22:44:31,580 INFO  [Log] Chrome Browser Started 
+2017-06-15 22:44:31,647 INFO  [Log] Navigating to URL 
+2017-06-15 22:44:53,159 INFO  [Log] Clicking on WebElement 
+2017-06-15 22:44:55,079 INFO  [Log] Clicking on WebElement 
+2017-06-15 22:44:57,203 INFO  [Log] Entering input Text 
+2017-06-15 22:44:59,395 INFO  [Log] Entering input Text 
+2017-06-15 22:45:00,212 INFO  [Log] Clicking on WebElement 
+2017-06-15 22:45:01,346 INFO  [Log] Closing the Browser 

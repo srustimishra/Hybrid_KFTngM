@@ -1,0 +1,22 @@
+
+#HomePage Objects
+btn_MyAccount=/html/body/div[2]/div/div/div[2]/ul/li[2]/a
+sel_Login=/html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[1]/a
+sel_Logout=/html/body/div[2]/div/div/div[2]/ul/li[2]/a
+btn_Logout=/html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[2]/a
+
+#LoginPage Objects
+txt_UserName=//*[@id="loginfrm"]/div[4]/div/div[1]/input
+txt_Password=//*[@id="loginfrm"]/div[4]/div/div[2]/input
+btn_Login=//*[@id="loginfrm"]/div[4]/button
+
+#SearchFlight Objects
+link_Flights=/html/body/div[4]/div[2]/div/ul/li[2]/a
+txt_Origin=//*[@id="flights-origin-prepop-e823caac1a24a0172d4ee792e5dad7d9"]
+txt_Destination=//*[@id="flights-destination-prepop-e823caac1a24a0172d4ee792e5dad7d9"]
+DateTimePicker=//*[@id="flights-dates-depart-prepop-e823caac1a24a0172d4ee792e5dad7d9"]
+DepatureDate=//*[@id="mewtwo-datepicker-2017-6-30"]/div
+ReturnDate=//*[@id="mewtwo-datepicker-2017-7-2"]/div
+Passengers=//*[@id="flights-form-e823caac1a24a0172d4ee792e5dad7d9"]/div[5]/div
+NumberofPassengers=/html/body/div[13]/div/div/div[1]/div[2]/span[3]
+Search_btn=//*[@id="flights-form-e823caac1a24a0172d4ee792e5dad7d9"]/div[6]/button
